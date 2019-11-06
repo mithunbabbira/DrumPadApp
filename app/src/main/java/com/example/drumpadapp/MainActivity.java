@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
 
      //there are two method to execute the music file above is the traditional below
-     // with the switch case    
+     // with the switch case
 
     }public class click implements View.OnClickListener{
 
